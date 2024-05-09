@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Atul modi</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🔭 I’m currently working on [react-blog](https://github.com/rudra-coder-mc/React-Blog)
+- 🔭 I’m currently working on [react-blog](https://github.com/rudra-coder-mc/React-Blog) , [full-stack-mern-project](https://github.com/rudra-coder-mc/full-stack-mern-project)
 
 - 🌱 I’m currently learning **backend , nextjs**
 
